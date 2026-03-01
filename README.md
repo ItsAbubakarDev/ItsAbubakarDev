@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently studying in Comsats University Islamabad Campus<br>I have grip on java and c++<br>I am learning Data Base having skills in mysql and mongodb<br>Passionate about web3 and blockchain technology <br>Currently looking forward for intern role 
+I am Muhammad Abubakar, a full-stack blockchain developer specializing in EVM-compatible chains, secure smart contract development, token generation, and NFT marketplaces. I have hands-on experience with Bitcoin protocol and forks, including modifying consensus parameters, network configurations, and wallet management using Bitcoin Core (QtWallet).
+
+I have contributed to building blockchain explorers, centralized crypto exchanges, and decentralized real estate marketplaces, handling smart contract deployment, on-chain transactions, wallet creation, and mining configurations. My expertise includes Solidity, Hardhat, Truffle, Ether.js, Metamask, IPFS, and frontend frameworks like React and Next.js.
+
+Currently, I work at Microslush as a Backend Blockchain Developer, where I focus on scalable blockchain solutions, smart contract integration, and decentralized application development. I best at creating secure, efficient, and user-friendly blockchain products that drive adoption and innovation in the crypto space.
+
+Core Skills: Blockchain Development, Smart Contracts, EVM Chains, NFT Marketplaces, Token Generation, Solidity, Hardhat, Truffle, Ether.js, Metamask, React, Node.js, MongoDB, PostgreSQL, AWS.
 
 
 ## 🌐 Socials:
